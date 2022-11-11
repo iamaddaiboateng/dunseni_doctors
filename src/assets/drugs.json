@@ -1,0 +1,4452 @@
+[
+  {
+    "name": "Adrenaline (Epinephrine)",
+    "formulation": "Injection",
+    "strength": "1 mg /ml (1:1000)"
+  },
+  {
+    "name": "Adrenaline (Epinephrine)",
+    "formulation": "Injection",
+    "strength": "100 microgram/ ml (1:10 000)"
+  },
+  {
+    "name": "Atropine",
+    "formulation": "Injection",
+    "strength": "0.6 mg/ ml"
+  },
+  {
+    "name": "Atropine",
+    "formulation": "Injection",
+    "strength": "1 mg/ ml"
+  },
+  {
+    "name": "Bupivacaine",
+    "formulation": "Injection",
+    "strength": "0.25% (plain)"
+  },
+  {
+    "name": "Bupivacaine",
+    "formulation": "Injection",
+    "strength": "0.5% (heavy)"
+  },
+  {
+    "name": "Bupivacaine",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Bupivacaine + Adrenaline",
+    "formulation": "Injection",
+    "strength": "0.25% +\n1:200 000"
+  },
+  {
+    "name": "Bupivacaine + Adrenaline",
+    "formulation": "Injection",
+    "strength": "0.5% + 1:200\n000"
+  },
+  {
+    "name": "Diazepam",
+    "formulation": "Injection",
+    "strength": "5 mg/ ml"
+  },
+  {
+    "name": "Ephedrine Hydrochloride",
+    "formulation": "Injection",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Fentanyl",
+    "formulation": "Injection",
+    "strength": "50 microgram"
+  },
+  {
+    "name": "Intralipid",
+    "formulation": "Infusion",
+    "strength": "20%"
+  },
+  {
+    "name": "Ketamine",
+    "formulation": "Injection",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Ketamine",
+    "formulation": "Injection",
+    "strength": "50 mg/ml"
+  },
+  {
+    "name": "Lidocaine",
+    "formulation": "Injection",
+    "strength": "2%"
+  },
+  {
+    "name": "Midazolam",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Midazolam",
+    "formulation": "Tablet",
+    "strength": "15 mg"
+  },
+  {
+    "name": "Nitrous Oxide: Oxygen",
+    "formulation": "Inhalation",
+    "strength": "50-50"
+  },
+  {
+    "name": "Oxygen",
+    "formulation": "Inhalation",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Ropivacaine",
+    "formulation": "Injection",
+    "strength": "7.5 mg/ml"
+  },
+  {
+    "name": "Thiopentone Sodium",
+    "formulation": "Injection",
+    "strength": "1 g"
+  },
+  {
+    "name": "Lidocaine",
+    "formulation": "Cream",
+    "strength": "2%"
+  },
+  {
+    "name": "Lidocaine",
+    "formulation": "Gel",
+    "strength": "2%"
+  },
+  {
+    "name": "Lidocaine",
+    "formulation": "Injection",
+    "strength": "1%"
+  },
+  {
+    "name": "Lidocaine",
+    "formulation": "Injection",
+    "strength": "2%"
+  },
+  {
+    "name": "Lidocaine",
+    "formulation": "Injection",
+    "strength": "20 mg/ml"
+  },
+  {
+    "name": "Lidocaine",
+    "formulation": "Spray",
+    "strength": "10%"
+  },
+  {
+    "name": "Lidocaine + Adrenaline",
+    "formulation": "Injection",
+    "strength": "10 mg/ml + 5 microgram/ ml"
+  },
+  {
+    "name": "Lidocaine + Adrenaline",
+    "formulation": "Injection",
+    "strength": "20 mg/ml + 5 microgram/ ml"
+  },
+  {
+    "name": "Allupurinol",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Allupurinol",
+    "formulation": "Tablet",
+    "strength": "300 mg"
+  },
+  {
+    "name": "Colchicine",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Aspirin",
+    "formulation": "Tablet",
+    "strength": "300 mg"
+  },
+  {
+    "name": "Celecoxib",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Celecoxib",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Diclofenac",
+    "formulation": "Capsule",
+    "strength": "75 mg"
+  },
+  {
+    "name": "Diclofenac",
+    "formulation": "Gel",
+    "strength": "1%"
+  },
+  {
+    "name": "Diclofenac",
+    "formulation": "Injection",
+    "strength": "25 mg/ml"
+  },
+  {
+    "name": "Diclofenac",
+    "formulation": "Spray",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Diclofenac",
+    "formulation": "Suppository",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Diclofenac",
+    "formulation": "Suppository",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Diclofenac",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Ibuprofen",
+    "formulation": "Suspension",
+    "strength": "100 mg/5 ml"
+  },
+  {
+    "name": "Ibuprofen",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Ibuprofen",
+    "formulation": "Tablet",
+    "strength": "400 mg"
+  },
+  {
+    "name": "Indomethacin",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Indomethacin",
+    "formulation": "Tablet",
+    "strength": "75 mg"
+  },
+  {
+    "name": "Mefenamic Acid",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Naproxen",
+    "formulation": "Tablet (Enteric Coated)",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Paracetamol",
+    "formulation": "Injection",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Paracetamol",
+    "formulation": "Suppository",
+    "strength": "125 mg"
+  },
+  {
+    "name": "Paracetamol",
+    "formulation": "Suppository",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Paracetamol",
+    "formulation": "Suppository",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Paracetamol",
+    "formulation": "Syrup",
+    "strength": "120 mg/5 ml"
+  },
+  {
+    "name": "Paracetamol",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Codeine",
+    "formulation": "Tablet",
+    "strength": "15 mg"
+  },
+  {
+    "name": "Codeine",
+    "formulation": "Tablet",
+    "strength": "60 mg"
+  },
+  {
+    "name": "Fentanyl",
+    "formulation": "Transdermal patch",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Morphine Sulphate",
+    "formulation": "Injection",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Morphine Sulphate",
+    "formulation": "Injection (preserva- tive-free)",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Morphine Sulphate",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Morphine Sulphate",
+    "formulation": "Tablet (slow release)",
+    "strength": "30 mg"
+  },
+  {
+    "name": "Pethidine",
+    "formulation": "Injection",
+    "strength": "50 mg/ml"
+  },
+  {
+    "name": "Tramadol Hydrochloride",
+    "formulation": "Capsule",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Tramadol Hydrochloride",
+    "formulation": "Injection",
+    "strength": "50 mg/ml"
+  },
+  {
+    "name": "Abatacept",
+    "formulation": "Injection",
+    "strength": "125 mg/ml"
+  },
+  {
+    "name": "Adalimumab",
+    "formulation": "Injection",
+    "strength": "50 mg/ml"
+  },
+  {
+    "name": "Anakinra",
+    "formulation": "Injection",
+    "strength": "150 mg/ml"
+  },
+  {
+    "name": "Azathioprine",
+    "formulation": "Injection",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Azathioprine",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Belimumab",
+    "formulation": "Infusion",
+    "strength": "120 mg"
+  },
+  {
+    "name": "Belimumab",
+    "formulation": "Infusion",
+    "strength": "400 mg"
+  },
+  {
+    "name": "Celecoxib",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Certolizumab",
+    "formulation": "Tablet",
+    "strength": "200 mg/ml"
+  },
+  {
+    "name": "Clonidine",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Cyclophosphamide",
+    "formulation": "Injection",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Cyclophosphamide",
+    "formulation": "Injection",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Cyclophosphamide",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Cycloserine",
+    "formulation": "Capsule",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Cyclosporine",
+    "formulation": "Injection",
+    "strength": "50 mg/ml"
+  },
+  {
+    "name": "Cyclosporine",
+    "formulation": "Oral Solution",
+    "strength": "100 mg/ml"
+  },
+  {
+    "name": "Cyclosporine",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Cyclosporine",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "D-penicillamine",
+    "formulation": "Tablet",
+    "strength": "125 mg"
+  },
+  {
+    "name": "Etanercept",
+    "formulation": "Injection",
+    "strength": "50 mg/ml"
+  },
+  {
+    "name": "Gabapentin",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Golimumab",
+    "formulation": "Injection",
+    "strength": "100 mg/ml"
+  },
+  {
+    "name": "Hydroxychloroquine",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Infliximab",
+    "formulation": "Injection",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Leflunomide",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Leflunomide",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Leflunomide",
+    "formulation": "Tablet",
+    "strength": "15 mg"
+  },
+  {
+    "name": "Methocarbamol",
+    "formulation": "Tablet",
+    "strength": "750 mg"
+  },
+  {
+    "name": "Methotrexate",
+    "formulation": "Tablet",
+    "strength": "2.5 mg"
+  },
+  {
+    "name": "Methotrexate",
+    "formulation": "Tablet",
+    "strength": "25 mg/ml"
+  },
+  {
+    "name": "Methylprednisolone",
+    "formulation": "Infusion",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Minocycline",
+    "formulation": "Capsule (Modified-re- lease)",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Mycophenolate mofetil",
+    "formulation": "Capsule",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Mycophenolate mofetil",
+    "formulation": "Injection",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Mycophenolate mofetil",
+    "formulation": "Suspension",
+    "strength": "200 mg/ml"
+  },
+  {
+    "name": "Pregabalin",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Rituximab",
+    "formulation": "Injection",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Rituximab",
+    "formulation": "Injection",
+    "strength": "119.66 mg/ ml"
+  },
+  {
+    "name": "Sodium Aurothiomalate",
+    "formulation": "Injection",
+    "strength": "100 mg/ml"
+  },
+  {
+    "name": "Sodium Aurothiomalate",
+    "formulation": "Injection",
+    "strength": "20 mg/ml"
+  },
+  {
+    "name": "Sulfasalazine",
+    "formulation": "Suspension",
+    "strength": "50 mg/ml"
+  },
+  {
+    "name": "Sulfasalazine",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Tacrolimus",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Tacrolimus",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Tacrolimus",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Tacrolimus",
+    "formulation": "Tablet",
+    "strength": "500 microgram"
+  },
+  {
+    "name": "Tocilizumab",
+    "formulation": "Injection",
+    "strength": "180 mg/ml"
+  },
+  {
+    "name": "Tocilizumab",
+    "formulation": "Injection",
+    "strength": "20 mg/ml"
+  },
+  {
+    "name": "Tofacitinib",
+    "formulation": "Tablet",
+    "strength": "11 mg"
+  },
+  {
+    "name": "Tofacitinib",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Adrenaline (Epinephrine)",
+    "formulation": "Injection",
+    "strength": "1 mg /ml (1:1000)"
+  },
+  {
+    "name": "Cetirizine",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Chlorpheniramine",
+    "formulation": "Syrup",
+    "strength": "3 mg/5 ml"
+  },
+  {
+    "name": "Chlorpheniramine",
+    "formulation": "Tablet",
+    "strength": "4 mg"
+  },
+  {
+    "name": "Dexamethasone",
+    "formulation": "Injection",
+    "strength": "4 mg/ml"
+  },
+  {
+    "name": "Dexamethasone",
+    "formulation": "Tablet",
+    "strength": "500 microgram"
+  },
+  {
+    "name": "Hydrocortisone",
+    "formulation": "Cream",
+    "strength": "0.5%"
+  },
+  {
+    "name": "Hydrocortisone",
+    "formulation": "Cream",
+    "strength": "1%"
+  },
+  {
+    "name": "Hydrocortisone",
+    "formulation": "Injection",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Hydrocortisone",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Hydrocortisone",
+    "formulation": "Tablet",
+    "strength": "20 mg"
+  },
+  {
+    "name": "Prednisolone",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Promethazine Hydrochloride",
+    "formulation": "Elixir",
+    "strength": "6 mg/5 ml"
+  },
+  {
+    "name": "Promethazine Hydrochloride",
+    "formulation": "Injection",
+    "strength": "25 mg/ml"
+  },
+  {
+    "name": "Promethazine Hydrochloride",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Capreomycin",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Cycloserine",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Ethambutol",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Ethambutol",
+    "formulation": "Tablet",
+    "strength": "400 mg"
+  },
+  {
+    "name": "Ethionamide",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Isoniazid",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Isoniazid",
+    "formulation": "Tablet",
+    "strength": "300 mg"
+  },
+  {
+    "name": "Kanamycin",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Levofloxacin",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Para-aminosalicylic acid",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Prothionamide",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Pyrazinamide",
+    "formulation": "Tablet",
+    "strength": "150 mg"
+  },
+  {
+    "name": "Pyrazinamide",
+    "formulation": "Tablet",
+    "strength": "400 mg"
+  },
+  {
+    "name": "Pyridoxine",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Pyridoxine",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Rifampicin",
+    "formulation": "Tablet",
+    "strength": "300 mg"
+  },
+  {
+    "name": "Rifampicin + Isoniazid",
+    "formulation": "Tablet",
+    "strength": "150 mg + 75 mg"
+  },
+  {
+    "name": "Rifampicin + Isoniazid",
+    "formulation": "Tablet",
+    "strength": "60 mg + 30 mg"
+  },
+  {
+    "name": "Rifampicin + Isoniazid + Ethambutol",
+    "formulation": "Tablet",
+    "strength": "150 mg + 75 mg + 275 mg"
+  },
+  {
+    "name": "Rifampicin + Isoniazid + Pyrazinamide",
+    "formulation": "Tablet",
+    "strength": "60 mg + 30 mg + 150 mg"
+  },
+  {
+    "name": "Rifampicin + Isoniazid + Pyrazinamide + Ethambutol",
+    "formulation": "Tablet",
+    "strength": "150 mg + 75 mg + 400 mg + 275 mg"
+  },
+  {
+    "name": "Streptomycin Sulphate",
+    "formulation": "Injection",
+    "strength": "1 g"
+  },
+  {
+    "name": "Azithromycin",
+    "formulation": "Capsule",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Azithromycin",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Azithromycin",
+    "formulation": "Suspension",
+    "strength": "200 mg/ml"
+  },
+  {
+    "name": "Cefixime",
+    "formulation": "Suspension",
+    "strength": "20 mg/ml"
+  },
+  {
+    "name": "Cefixime",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Cefotaxime",
+    "formulation": "Injecton",
+    "strength": "1 g"
+  },
+  {
+    "name": "Cefotaxime",
+    "formulation": "Injecton",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Ceftriaxone",
+    "formulation": "Injecton",
+    "strength": "1 g"
+  },
+  {
+    "name": "Ceftriaxone",
+    "formulation": "Injecton",
+    "strength": "2 g"
+  },
+  {
+    "name": "Ceftriaxone",
+    "formulation": "Injecton",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Cefuroxime",
+    "formulation": "Injection",
+    "strength": "1.5 g"
+  },
+  {
+    "name": "Cefuroxime",
+    "formulation": "Injection",
+    "strength": "750 mg"
+  },
+  {
+    "name": "Cefuroxime",
+    "formulation": "Suspension",
+    "strength": "125 mg/5 ml"
+  },
+  {
+    "name": "Cefuroxime",
+    "formulation": "Tablet",
+    "strength": "125 mg"
+  },
+  {
+    "name": "Cefuroxime",
+    "formulation": "Tablet",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Terbinafine Hydrochloride",
+    "formulation": "Tablet",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Praziquantel",
+    "formulation": "Tablet",
+    "strength": "600 mg"
+  },
+  {
+    "name": "Albendazole",
+    "formulation": "Syrup",
+    "strength": "100 mg/5 ml"
+  },
+  {
+    "name": "Albendazole",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Albendazole",
+    "formulation": "Tablet",
+    "strength": "400 mg"
+  },
+  {
+    "name": "Mebendazole",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Mebendazole",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Niclosamide",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Tiabendazole",
+    "formulation": "Suspension",
+    "strength": "50 mg/ml"
+  },
+  {
+    "name": "Tiabendazole",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Diloxanide Furoate",
+    "formulation": "Suspension",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Diloxanide Furoate",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Metronidazole",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Metronidazole",
+    "formulation": "Suppository",
+    "strength": "125 mg"
+  },
+  {
+    "name": "Metronidazole",
+    "formulation": "Suppository",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Metronidazole",
+    "formulation": "Suspension",
+    "strength": "100 mg/5 ml"
+  },
+  {
+    "name": "Metronidazole",
+    "formulation": "Suspension",
+    "strength": "200 mg/5 ml"
+  },
+  {
+    "name": "Metronidazole",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Metronidazole",
+    "formulation": "Tablet",
+    "strength": "400 mg"
+  },
+  {
+    "name": "Paromomycin",
+    "formulation": "Suspension",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Paromomycin",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Secnidazole",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Tinidazole",
+    "formulation": "Suspension",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Tinidazole",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Artemether + Lumefantrine",
+    "formulation": "Dispersible Tablet",
+    "strength": "20 mg + 120 mg"
+  },
+  {
+    "name": "Artemether + Lumefantrine",
+    "formulation": "Tablet",
+    "strength": "20 mg + 120 mg"
+  },
+  {
+    "name": "Artesunate",
+    "formulation": "Injection",
+    "strength": "60 mg (as Anhydrous Aretsunic Acid) + 5% Sodium Bicarbonate Solution for reconstitution"
+  },
+  {
+    "name": "Artesunate",
+    "formulation": "Suppository",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Artesunate",
+    "formulation": "Suppository",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Artesunate + Amodiaquine",
+    "formulation": "Granular\nPowder",
+    "strength": "25 mg + 75\nmg"
+  },
+  {
+    "name": "Artesunate + Amodiaquine",
+    "formulation": "Tablet",
+    "strength": "100 mg + 270\nmg"
+  },
+  {
+    "name": "Artesunate + Amodiaquine",
+    "formulation": "Tablet",
+    "strength": "25 mg + 67.5\nmg"
+  },
+  {
+    "name": "Artesunate + Amodiaquine",
+    "formulation": "Tablet",
+    "strength": "25 mg + 75\nmg"
+  },
+  {
+    "name": "Artesunate + Amodiaquine",
+    "formulation": "Tablet",
+    "strength": "50 mg + 135\nmg"
+  },
+  {
+    "name": "Artesunate + Amodiaquine",
+    "formulation": "Tablet",
+    "strength": "50 mg + 150\nmg"
+  },
+  {
+    "name": "Arthemether",
+    "formulation": "Injection",
+    "strength": "40 mg/ml"
+  },
+  {
+    "name": "Arthemether",
+    "formulation": "Injection",
+    "strength": "80 mg/ml"
+  },
+  {
+    "name": "Dihydroartemisinin + Piperaquine",
+    "formulation": "Tablet",
+    "strength": "40 mg + 320\nmg"
+  },
+  {
+    "name": "Quinine",
+    "formulation": "Injection",
+    "strength": "300 mg/ml in 2 mls"
+  },
+  {
+    "name": "Quinine",
+    "formulation": "Syrup",
+    "strength": "20 mg/ml"
+  },
+  {
+    "name": "Quinine",
+    "formulation": "Tablet",
+    "strength": "300 mg"
+  },
+  {
+    "name": "Quinine + Clindamycin",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Sulfadoxine + Pyrimethamine",
+    "formulation": "Tablet",
+    "strength": "500 mg + 25 mg"
+  },
+  {
+    "name": "Acyclovir",
+    "formulation": "Injection",
+    "strength": "25 mg/ml"
+  },
+  {
+    "name": "Acyclovir",
+    "formulation": "Suspension",
+    "strength": "200 mg/5 ml"
+  },
+  {
+    "name": "Acyclovir",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Carbamazepine",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Carbamazepine",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Carbamazepine",
+    "formulation": "Tablet (sustained-re- lease)",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Carbamazepine",
+    "formulation": "Tablet (sustained-re- lease)",
+    "strength": "400 mg"
+  },
+  {
+    "name": "Clonazepam Hydrochloride",
+    "formulation": "Oral Solution",
+    "strength": "100 microgram/ ml"
+  },
+  {
+    "name": "Clonazepam Hydrochloride",
+    "formulation": "Tablet",
+    "strength": "500 microgram"
+  },
+  {
+    "name": "Diazepam",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Diazepam",
+    "formulation": "Rectal Tubes",
+    "strength": "2 mg/ml"
+  },
+  {
+    "name": "Ethosuximide",
+    "formulation": "Syrup",
+    "strength": "250 mg/5 ml"
+  },
+  {
+    "name": "Ethosuximide",
+    "formulation": "Tablet",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Lamotrigine",
+    "formulation": "Dispersible Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Lamotrigine",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Lamotrigine",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Levetiracetam",
+    "formulation": "Injection",
+    "strength": "100 mg/ml"
+  },
+  {
+    "name": "Levetiracetam",
+    "formulation": "Oral Solution",
+    "strength": "100 mg/ml"
+  },
+  {
+    "name": "Levetiracetam",
+    "formulation": "Tablet",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Levetiracetam",
+    "formulation": "Tablet",
+    "strength": "750 mg"
+  },
+  {
+    "name": "Lorazepam",
+    "formulation": "Injection",
+    "strength": "4 mg/ml"
+  },
+  {
+    "name": "Magnesium Sulphate",
+    "formulation": "Injection",
+    "strength": "20%"
+  },
+  {
+    "name": "Magnesium Sulphate",
+    "formulation": "Injection",
+    "strength": "25%"
+  },
+  {
+    "name": "Magnesium Sulphate",
+    "formulation": "Injection",
+    "strength": "50%"
+  },
+  {
+    "name": "Midazolam",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Midazolam",
+    "formulation": "Oromucosal Solution",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Phenobarbital",
+    "formulation": "Injection",
+    "strength": "200 mg/ml"
+  },
+  {
+    "name": "Phenytoin",
+    "formulation": "Capsule",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Phenytoin",
+    "formulation": "Injection",
+    "strength": "50 mg/ml"
+  },
+  {
+    "name": "Phenytoin",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Sodium Valproate",
+    "formulation": "Capsule",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Sodium Valproate",
+    "formulation": "Capsule",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Sodium Valproate",
+    "formulation": "Syrup",
+    "strength": "200 mg/5 ml"
+  },
+  {
+    "name": "Sodium Valproate",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Acetylcysteine",
+    "formulation": "Injection",
+    "strength": "200 mg/ml"
+  },
+  {
+    "name": "Activated Charcoal",
+    "formulation": "Powder",
+    "strength": "50 g"
+  },
+  {
+    "name": "Adrenaline (Epinephrine)",
+    "formulation": "Injection",
+    "strength": "1 mg /ml (1:1000)"
+  },
+  {
+    "name": "Atropine",
+    "formulation": "Injection",
+    "strength": "0.6 mg/ml"
+  },
+  {
+    "name": "Benzatropine",
+    "formulation": "Injection",
+    "strength": "1 mg/ml"
+  },
+  {
+    "name": "Cholestyramine",
+    "formulation": "Oral Powder Sachets",
+    "strength": "4 g"
+  },
+  {
+    "name": "Desferrioxamine",
+    "formulation": "Injection",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Diazepam",
+    "formulation": "Injection",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Ethanol",
+    "formulation": "Solution",
+    "strength": "10%"
+  },
+  {
+    "name": "Flumazenil",
+    "formulation": "Injection",
+    "strength": "0.2 mg"
+  },
+  {
+    "name": "Fomepizole",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Fresh Frozen Plasma",
+    "formulation": "(blank)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Hydroxocobalamin",
+    "formulation": "Injection",
+    "strength": "1 mg/ml"
+  },
+  {
+    "name": "N-acetylcysteine",
+    "formulation": "Injection",
+    "strength": "200 mg/ml"
+  },
+  {
+    "name": "Naloxone",
+    "formulation": "Injection",
+    "strength": "200 microgram/ ml"
+  },
+  {
+    "name": "Naloxone",
+    "formulation": "Injection",
+    "strength": "400 microgram/ ml"
+  },
+  {
+    "name": "Omeprazole",
+    "formulation": "Tablet",
+    "strength": "40 mg"
+  },
+  {
+    "name": "Phytomenadione",
+    "formulation": "Injection",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Phytomenadione",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Promethazine Hydrochloride",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Ranitidine",
+    "formulation": "Injection",
+    "strength": "25 mg/ml"
+  },
+  {
+    "name": "Ranitidine",
+    "formulation": "Tablet",
+    "strength": "150 mg"
+  },
+  {
+    "name": "Salbutamol",
+    "formulation": "Tablet",
+    "strength": "4 mg"
+  },
+  {
+    "name": "Sodium Thiosulfate",
+    "formulation": "(blank)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Aspirin",
+    "formulation": "Tablet",
+    "strength": "300 mg"
+  },
+  {
+    "name": "Clonidine",
+    "formulation": "Tablet",
+    "strength": "100\nmicrogram"
+  },
+  {
+    "name": "Clonidine",
+    "formulation": "Tablet",
+    "strength": "25\nmicrogram"
+  },
+  {
+    "name": "Paracetamol",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Propranolol",
+    "formulation": "Tablet",
+    "strength": "40 mg"
+  },
+  {
+    "name": "Actinomycin D",
+    "formulation": "Injection",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Adriamycin Hydrochloride",
+    "formulation": "Injection",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Adriamycin Hydrochloride",
+    "formulation": "Injection",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Bacillus Calmette-Guerin",
+    "formulation": "Injection",
+    "strength": "12.5 mg"
+  },
+  {
+    "name": "Bacillus Calmette-Guerin",
+    "formulation": "Injection",
+    "strength": "81 mg"
+  },
+  {
+    "name": "Bicalutamide",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Bicalutamide",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Carboplatin",
+    "formulation": "Injection",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Cisplatin",
+    "formulation": "Injection",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Cyclophosphamide",
+    "formulation": "Injection",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Cyclophosphamide",
+    "formulation": "Injection",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Cyclophosphamide",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Doxorubucin",
+    "formulation": "Injection",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Doxorubucin",
+    "formulation": "Injection",
+    "strength": "2 mg/ml"
+  },
+  {
+    "name": "Etoposide",
+    "formulation": "Capsule",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Etoposide",
+    "formulation": "Injection",
+    "strength": "20 mg/ml"
+  },
+  {
+    "name": "Flutamide",
+    "formulation": "Tablet",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Goserelin",
+    "formulation": "Injection",
+    "strength": "10.8 mg"
+  },
+  {
+    "name": "Goserelin",
+    "formulation": "Injection",
+    "strength": "3.6 mg"
+  },
+  {
+    "name": "Hydroxycarbamide",
+    "formulation": "Capsule",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Leuprolide Acetate",
+    "formulation": "Injection",
+    "strength": "3.75 mg/ml"
+  },
+  {
+    "name": "Methotrexate",
+    "formulation": "Injection",
+    "strength": "2.5 mg/ml"
+  },
+  {
+    "name": "Methotrexate",
+    "formulation": "Injection",
+    "strength": "25 mg/ml"
+  },
+  {
+    "name": "Methotrexate",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Methotrexate",
+    "formulation": "Tablet",
+    "strength": "2.5 mg"
+  },
+  {
+    "name": "Stilboestrol",
+    "formulation": "Tablet",
+    "strength": "1 mg"
+  },
+  {
+    "name": "Stilboestrol",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Stilboestrol",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Thiotepa",
+    "formulation": "Injection",
+    "strength": "15 mg"
+  },
+  {
+    "name": "Vinblastine",
+    "formulation": "Injection",
+    "strength": "1 mg/ml"
+  },
+  {
+    "name": "Vincristine",
+    "formulation": "Injection",
+    "strength": "1 mg"
+  },
+  {
+    "name": "Vincristine",
+    "formulation": "Injection",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Vincristine",
+    "formulation": "Injection",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Prednisolone",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Benzatropine",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Biperiden",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Biperiden",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Trihexyphenidyl",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Trihexyphenidyl",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Cryoprecipitate",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Fresh Frozen Plasma",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Packed Red Cells",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Platelet Concentrate",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Purified Factor IX",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Purified Factor VIII",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Recombinant Factor IX",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Recombinant Factor VIII",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Salt-poor Human Albumin",
+    "formulation": "Solution",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Whole blood",
+    "formulation": "(blank)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Aspirin",
+    "formulation": "Chewable Tablet",
+    "strength": "300 mg"
+  },
+  {
+    "name": "Glyceryl Trinitrate",
+    "formulation": "Tablet",
+    "strength": "500\nmicrogram"
+  },
+  {
+    "name": "Isosorbide Dinitrate",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Isosorbide Dinitrate",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Nifedipine",
+    "formulation": "Tablet",
+    "strength": "10 mg (Slow release)"
+  },
+  {
+    "name": "Nifedipine",
+    "formulation": "Tablet",
+    "strength": "20 mg (Slow release)"
+  },
+  {
+    "name": "Nifedipine",
+    "formulation": "Tablet",
+    "strength": "30 mg (GITS)"
+  },
+  {
+    "name": "Propranolol",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Propranolol",
+    "formulation": "Tablet",
+    "strength": "40 mg"
+  },
+  {
+    "name": "Propranolol",
+    "formulation": "Tablet",
+    "strength": "80 mg"
+  },
+  {
+    "name": "Atenolol",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Atenolol",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Bisoprolol",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Digoxin",
+    "formulation": "Elixir",
+    "strength": "50\nmicrogram/ ml"
+  },
+  {
+    "name": "Digoxin",
+    "formulation": "Tablet",
+    "strength": "125\nmicrogram"
+  },
+  {
+    "name": "Digoxin",
+    "formulation": "Tablet",
+    "strength": "250\nmicrogram"
+  },
+  {
+    "name": "Metoprolol Tartrate",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Metoprolol Tartrate",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Propranolol",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Propranolol",
+    "formulation": "Tablet",
+    "strength": "40 mg"
+  },
+  {
+    "name": "Propranolol",
+    "formulation": "Tablet",
+    "strength": "80 mg"
+  },
+  {
+    "name": "Verapamil",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Amlodipine",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Amlodipine",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Atenolol",
+    "formulation": "Injection",
+    "strength": "500\nmicrogram/ ml"
+  },
+  {
+    "name": "Atenolol",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Atenolol",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Atenolol",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Bendroflumethiazide",
+    "formulation": "Tablet",
+    "strength": "2.5 mg"
+  },
+  {
+    "name": "Bendroflumethiazide",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Bisoprolol",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Bisoprolol",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Candesartan",
+    "formulation": "Tablet",
+    "strength": "16 mg"
+  },
+  {
+    "name": "Candesartan",
+    "formulation": "Tablet",
+    "strength": "8 mg"
+  },
+  {
+    "name": "Cervedilol",
+    "formulation": "Tablet",
+    "strength": "12.5 mg"
+  },
+  {
+    "name": "Cervedilol",
+    "formulation": "Tablet",
+    "strength": "3.125 mg"
+  },
+  {
+    "name": "Dobutamide",
+    "formulation": "Injection",
+    "strength": "12.5 mg/ml"
+  },
+  {
+    "name": "Enalapril",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Enalapril",
+    "formulation": "Tablet",
+    "strength": "2.5 mg"
+  },
+  {
+    "name": "Hydralazine",
+    "formulation": "Injection",
+    "strength": "20 mg"
+  },
+  {
+    "name": "Hydralazine",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "formulation": "Tablet",
+    "strength": "12.5 mg"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Labetalol",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Labetalol",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Labetalol",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Lisinopril",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Lisinopril",
+    "formulation": "Tablet",
+    "strength": "2.5 mg"
+  },
+  {
+    "name": "Lisinopril",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Losartan",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Losartan",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Losartan",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Methyldopa",
+    "formulation": "Tablet",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Metoprolol Tartrate",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Nifedipine",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Nifedipine",
+    "formulation": "Tablet",
+    "strength": "10 mg (Slow release)"
+  },
+  {
+    "name": "Nifedipine",
+    "formulation": "Tablet",
+    "strength": "20 mg (Slow release)"
+  },
+  {
+    "name": "Nifedipine",
+    "formulation": "Tablet",
+    "strength": "30 mg (GITS)"
+  },
+  {
+    "name": "Nifedipine",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Prazosin",
+    "formulation": "Tablet",
+    "strength": "500\nmicrogram"
+  },
+  {
+    "name": "Propranolol",
+    "formulation": "Injection",
+    "strength": "1 mg/ml"
+  },
+  {
+    "name": "Propranolol",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Propranolol",
+    "formulation": "Tablet",
+    "strength": "40 mg"
+  },
+  {
+    "name": "Propranolol",
+    "formulation": "Tablet",
+    "strength": "80 mg"
+  },
+  {
+    "name": "Ramipril",
+    "formulation": "Tablet",
+    "strength": "2.5 mg"
+  },
+  {
+    "name": "Spironolactone",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Spironolactone",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Valsartan",
+    "formulation": "Tablet",
+    "strength": "160 mg"
+  },
+  {
+    "name": "Valsartan",
+    "formulation": "Tablet",
+    "strength": "40 mg"
+  },
+  {
+    "name": "Digoxin",
+    "formulation": "Elixir",
+    "strength": "50\nmicrogram/ ml"
+  },
+  {
+    "name": "Digoxin",
+    "formulation": "Tablet",
+    "strength": "125\nmicrogram"
+  },
+  {
+    "name": "Digoxin",
+    "formulation": "Tablet",
+    "strength": "250\nmicrogram"
+  },
+  {
+    "name": "Hydrocortisone",
+    "formulation": "Injection",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Polygeline",
+    "formulation": "Infusion",
+    "strength": "3.5%"
+  },
+  {
+    "name": "Insulin Aspart (Fast acting)",
+    "formulation": "Injection",
+    "strength": "100 units/ml"
+  },
+  {
+    "name": "Atorvastatin",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Atorvastatin",
+    "formulation": "Tablet",
+    "strength": "20 mg"
+  },
+  {
+    "name": "Rosuvastatin",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Rosuvastatin",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Simvastatin",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Simvastatin",
+    "formulation": "Tablet",
+    "strength": "20 mg"
+  },
+  {
+    "name": "Simvastatin",
+    "formulation": "Tablet",
+    "strength": "30 mg"
+  },
+  {
+    "name": "Simvastatin",
+    "formulation": "Tablet",
+    "strength": "40 mg"
+  },
+  {
+    "name": "Dobutamine",
+    "formulation": "Solution for Infusion",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Acyclovir",
+    "formulation": "Cream",
+    "strength": "5%"
+  },
+  {
+    "name": "Adapalene",
+    "formulation": "Cream",
+    "strength": "0.1%"
+  },
+  {
+    "name": "Adapalene",
+    "formulation": "Gel",
+    "strength": "0.1%"
+  },
+  {
+    "name": "Cetrimide",
+    "formulation": "Solution",
+    "strength": "15%"
+  },
+  {
+    "name": "Cetrimide + Chlorhexidine\nGluconate",
+    "formulation": "Solution",
+    "strength": "0.15% +\n0.015%"
+  },
+  {
+    "name": "Cetrimide + Chlorhexidine\nGluconate",
+    "formulation": "Solution",
+    "strength": "15% + 1.5%"
+  },
+  {
+    "name": "Chlorhexidine",
+    "formulation": "Gel",
+    "strength": "7.1%\n(digluconate) delivering 4% chlorhexidine"
+  },
+  {
+    "name": "Chlorhexidine",
+    "formulation": "Solution",
+    "strength": "7.1%\n(digluconate) delivering 4% chlorhexidine"
+  },
+  {
+    "name": "Fusidic Acid",
+    "formulation": "Cream",
+    "strength": "2%"
+  },
+  {
+    "name": "Mupirocin",
+    "formulation": "Ointment",
+    "strength": "2%"
+  },
+  {
+    "name": "Povidone Iodine",
+    "formulation": "Solution",
+    "strength": "10%"
+  },
+  {
+    "name": "Silver Sulphadiazine",
+    "formulation": "Cream",
+    "strength": "1%"
+  },
+  {
+    "name": "Betamethasone Diproprionate",
+    "formulation": "Cream",
+    "strength": "0.05%"
+  },
+  {
+    "name": "Betamethasone Diproprionate",
+    "formulation": "Cream",
+    "strength": "0.1%"
+  },
+  {
+    "name": "Calamine",
+    "formulation": "Cream",
+    "strength": "15%"
+  },
+  {
+    "name": "Calamine",
+    "formulation": "Lotion",
+    "strength": "15%"
+  },
+  {
+    "name": "Clobetasol Propionate",
+    "formulation": "Cream",
+    "strength": "0.05%"
+  },
+  {
+    "name": "Hydrocortisone",
+    "formulation": "Cream",
+    "strength": "0.5%"
+  },
+  {
+    "name": "Hydrocortisone",
+    "formulation": "Cream",
+    "strength": "1%"
+  },
+  {
+    "name": "Hydrocortisone",
+    "formulation": "Cream",
+    "strength": "2.5%"
+  },
+  {
+    "name": "Mometasone",
+    "formulation": "Cream",
+    "strength": "0.1%"
+  },
+  {
+    "name": "Zinc Oxide",
+    "formulation": "Cream",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Benzoic Acid + Salicylic\nAcid",
+    "formulation": "Ointment",
+    "strength": "6% + 3%"
+  },
+  {
+    "name": "Ciclopirox Olamine",
+    "formulation": "Cream",
+    "strength": "1%"
+  },
+  {
+    "name": "Clotrimazole",
+    "formulation": "Cream",
+    "strength": "1%"
+  },
+  {
+    "name": "Clotrimazole",
+    "formulation": "Cream",
+    "strength": "2%"
+  },
+  {
+    "name": "Clotrimazole",
+    "formulation": "Pessary",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Clotrimazole",
+    "formulation": "Powder",
+    "strength": "1%"
+  },
+  {
+    "name": "Clotrimazole",
+    "formulation": "Topical Solution",
+    "strength": "1%"
+  },
+  {
+    "name": "Clotrimazole + Hydrocortisone",
+    "formulation": "Cream",
+    "strength": "1% + 1%"
+  },
+  {
+    "name": "Clotrimazole + Hydrocortisone",
+    "formulation": "Cream",
+    "strength": "2% + 1%"
+  },
+  {
+    "name": "Econazole",
+    "formulation": "Cream",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Ketoconazole",
+    "formulation": "Shampoo",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Miconazole",
+    "formulation": "Cream",
+    "strength": "2%"
+  },
+  {
+    "name": "Miconazole",
+    "formulation": "Oral Gel",
+    "strength": "24 mg/ml"
+  },
+  {
+    "name": "Miconazole",
+    "formulation": "Powder",
+    "strength": "2%"
+  },
+  {
+    "name": "Miconazole",
+    "formulation": "Tincture",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Miconazole",
+    "formulation": "Vaginal Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Miconazole + Hydrocortisone",
+    "formulation": "Cream",
+    "strength": "2% + 1%"
+  },
+  {
+    "name": "Nystatin",
+    "formulation": "Cream",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Selenium Sulphide",
+    "formulation": "Shampoo",
+    "strength": "2.5%"
+  },
+  {
+    "name": "Salicylic Acid",
+    "formulation": "Ointment",
+    "strength": 0.02
+  },
+  {
+    "name": "Aqueous Cream",
+    "formulation": "",
+    "strength": "BP"
+  },
+  {
+    "name": "Aqueous Soap",
+    "formulation": "",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Paraffin",
+    "formulation": "Cream",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Benzyl Benzoate",
+    "formulation": "Lotion",
+    "strength": 0.25
+  },
+  {
+    "name": "Malathoin",
+    "formulation": "Liquid",
+    "strength": "0.5%"
+  },
+  {
+    "name": "Permethrin",
+    "formulation": "Lotion",
+    "strength": "1%"
+  },
+  {
+    "name": "Adapalene",
+    "formulation": "Cream",
+    "strength": "0.1%"
+  },
+  {
+    "name": "Adapalene",
+    "formulation": "Gel",
+    "strength": "0.1%"
+  },
+  {
+    "name": "Benzoyl Peroxide",
+    "formulation": "Solution",
+    "strength": 0.05
+  },
+  {
+    "name": "Clindamycin",
+    "formulation": "Solution",
+    "strength": "1%"
+  },
+  {
+    "name": "Copper Sulphate",
+    "formulation": "Stone",
+    "strength": "(blank)"
+  },
+  {
+    "name": "E45",
+    "formulation": "Cream",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Imiquimod",
+    "formulation": "Cream",
+    "strength": 0.05
+  },
+  {
+    "name": "Oilatum",
+    "formulation": "Soap",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Podophyllin",
+    "formulation": "Tincture of benzoin",
+    "strength": "10-25%"
+  },
+  {
+    "name": "Podophylotoxin",
+    "formulation": "(blank)",
+    "strength": "0.5%"
+  },
+  {
+    "name": "Shea Butter",
+    "formulation": "Cream",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Tretinoin",
+    "formulation": "Gel",
+    "strength": "0.01%"
+  },
+  {
+    "name": "Trichloroacetic Acid",
+    "formulation": "(blank)",
+    "strength": "80-90%"
+  },
+  {
+    "name": "Fluorescein",
+    "formulation": "Solution",
+    "strength": "2%"
+  },
+  {
+    "name": "Fluorescein",
+    "formulation": "Strips",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Tropicamide",
+    "formulation": "Eye Drops",
+    "strength": "1%"
+  },
+  {
+    "name": "Chlorhexidine",
+    "formulation": "Cream",
+    "strength": "1%"
+  },
+  {
+    "name": "Chlorhexidine",
+    "formulation": "Solution",
+    "strength": 0.025
+  },
+  {
+    "name": "Chlorhexidine",
+    "formulation": "Solution",
+    "strength": 0.04
+  },
+  {
+    "name": "Povidone Iodine",
+    "formulation": "Solution",
+    "strength": 0.1
+  },
+  {
+    "name": "Bendroflumethiazide",
+    "formulation": "Tablet",
+    "strength": "2.5 mg"
+  },
+  {
+    "name": "Bendroflumethiazide",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Furosemide",
+    "formulation": "Injection",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Furosemide",
+    "formulation": "Tablet",
+    "strength": "40 mg"
+  },
+  {
+    "name": "Hypertonic Saline",
+    "formulation": "Injection",
+    "strength": 0.03
+  },
+  {
+    "name": "Mannitol",
+    "formulation": "Injection",
+    "strength": 0.2
+  },
+  {
+    "name": "Metolazone",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Spironolactone",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Spironolactone",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Adrenaline (Epinephrine)",
+    "formulation": "Injection",
+    "strength": "1 mg /ml\n(1:1000)"
+  },
+  {
+    "name": "Aminophylline",
+    "formulation": "Injection",
+    "strength": "250 mg/10 ml"
+  },
+  {
+    "name": "Beclometasone Dipropionate",
+    "formulation": "Inhaler",
+    "strength": "100\nmicrogram/ metered dose (200 doses)"
+  },
+  {
+    "name": "Budesonide",
+    "formulation": "metered dose\ninhaler",
+    "strength": "100\nmicrogram"
+  },
+  {
+    "name": "Budesonide",
+    "formulation": "metered dose\ninhaler",
+    "strength": "200\nmicrogram"
+  },
+  {
+    "name": "Budesonide + Formoterol",
+    "formulation": "Inhaler",
+    "strength": "160\nmicrogram\n+ 4.5\nmicrogram"
+  },
+  {
+    "name": "Budesonide + Formoterol",
+    "formulation": "Inhaler",
+    "strength": "80\nmicrogram\n+ 4.5\nmicrogram"
+  },
+  {
+    "name": "Fluticasone",
+    "formulation": "Inhaler",
+    "strength": "125\nmicrogram"
+  },
+  {
+    "name": "Fluticasone",
+    "formulation": "Inhaler",
+    "strength": "250\nmicrogram"
+  },
+  {
+    "name": "Fluticasone + Salmeterol",
+    "formulation": "Inhaler",
+    "strength": "250\nmicrogram\n+ 50\nmicrogram"
+  },
+  {
+    "name": "Hydrocortisone",
+    "formulation": "Injection",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Ipratropium Bromide",
+    "formulation": "Nebuliser",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Montelukast",
+    "formulation": "Chewable Tablet",
+    "strength": "4 mg"
+  },
+  {
+    "name": "Montelukast",
+    "formulation": "Chewable Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Montelukast",
+    "formulation": "Granule Sachets",
+    "strength": "4 mg"
+  },
+  {
+    "name": "Montelukast",
+    "formulation": "Granule Sachets",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Montelukast",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Prednisolone",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Salbutamol",
+    "formulation": "Nebuliser",
+    "strength": "2.5 mg\nnebules"
+  },
+  {
+    "name": "Salbutamol",
+    "formulation": "Nebuliser",
+    "strength": "5 mg nebules"
+  },
+  {
+    "name": "Salbutamol",
+    "formulation": "Pressurized metered dose Inhaler",
+    "strength": "100\nmicrogram/ metered dose (200 doses)"
+  },
+  {
+    "name": "Salbutamol",
+    "formulation": "Syrup",
+    "strength": "2 mg/5 ml"
+  },
+  {
+    "name": "Salbutamol",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Salbutamol",
+    "formulation": "Tablet",
+    "strength": "4 mg"
+  },
+  {
+    "name": "Theophylline",
+    "formulation": "Tablet (slow release)",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Tiotropium Bromide",
+    "formulation": "Inhaler (dry powder)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Acetylcysteine",
+    "formulation": "Syrup",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Carbocysteine",
+    "formulation": "Capsule",
+    "strength": "375 mg"
+  },
+  {
+    "name": "Carbocysteine",
+    "formulation": "Syrup",
+    "strength": "125 mg/5 ml"
+  },
+  {
+    "name": "Carbocysteine",
+    "formulation": "Syrup",
+    "strength": "250 mg/5 ml"
+  },
+  {
+    "name": "Codeine containing cough preparations",
+    "formulation": "Syrup",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Dextromethorphan containing cough preparations",
+    "formulation": "Syrup",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Guaifenesin containing experorant",
+    "formulation": "Syrup",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Simple Linctus",
+    "formulation": "Paediatric formulation",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Simple Linctus",
+    "formulation": "Syrup",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Oxygen",
+    "formulation": "Inhalation",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Darbepoietin alfa",
+    "formulation": "Injection",
+    "strength": "100\nmicrogram/ ml"
+  },
+  {
+    "name": "Darbepoietin alfa",
+    "formulation": "Injection",
+    "strength": "25\nmicrogram/ ml"
+  },
+  {
+    "name": "Darbepoietin alfa",
+    "formulation": "Injection",
+    "strength": "500\nmicrogram/ ml"
+  },
+  {
+    "name": "Epoietin beta",
+    "formulation": "Injection",
+    "strength": "10 000 units/ ml"
+  },
+  {
+    "name": "Epoietin beta",
+    "formulation": "Injection",
+    "strength": "2000 units/ ml"
+  },
+  {
+    "name": "Ferric Sodium Gluconate complex",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Ferrous Fumarate",
+    "formulation": "Tablet",
+    "strength": "65 mg elemental iron"
+  },
+  {
+    "name": "Ferrous Gluconate",
+    "formulation": "(blank)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Ferrous Sulphate",
+    "formulation": "Syrup",
+    "strength": "60 mg/5 ml"
+  },
+  {
+    "name": "Ferrous Sulphate",
+    "formulation": "Tablet",
+    "strength": "65 mg elemental iron"
+  },
+  {
+    "name": "Folic Acid",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Hydroxocobalamin",
+    "formulation": "Injection",
+    "strength": "1 mg/ml"
+  },
+  {
+    "name": "Iron (III) Hydroxide Polymaltose Complex",
+    "formulation": "Capsule",
+    "strength": "100 mg elemental iron"
+  },
+  {
+    "name": "Iron (III) Hydroxide Polymaltose Complex",
+    "formulation": "Suspension",
+    "strength": "100 mg elemental iron"
+  },
+  {
+    "name": "Iron Dextran",
+    "formulation": "Injection",
+    "strength": "100 mg/2 ml"
+  },
+  {
+    "name": "Iron Sucrose",
+    "formulation": "Injection",
+    "strength": "20 mg/ml"
+  },
+  {
+    "name": "Methoxy polyethylene glycol epoietin beta (pegylated form of Epo)",
+    "formulation": "Injection",
+    "strength": "100\nmicrogram/ ml"
+  },
+  {
+    "name": "Methoxy polyethylene glycol epoietin beta (pegylated form of Epo)",
+    "formulation": "Injection",
+    "strength": "500\nmicrogram/ ml"
+  },
+  {
+    "name": "Aspirin",
+    "formulation": "Dispersible Tablet",
+    "strength": "75 mg"
+  },
+  {
+    "name": "Clopidogrel",
+    "formulation": "Tablet",
+    "strength": "75 mg"
+  },
+  {
+    "name": "Dalteparin",
+    "formulation": "Injection",
+    "strength": "10 000 units/ ml"
+  },
+  {
+    "name": "Dalteparin",
+    "formulation": "Injection",
+    "strength": "25 000 units/ ml"
+  },
+  {
+    "name": "Dalteparin",
+    "formulation": "Injection",
+    "strength": "2500 units/ ml"
+  },
+  {
+    "name": "Desmopressin",
+    "formulation": "Nasal Spray",
+    "strength": "150\nmicrogram/ dose"
+  },
+  {
+    "name": "Enoxaparin",
+    "formulation": "Injection",
+    "strength": "100 mg/ml"
+  },
+  {
+    "name": "Heparin",
+    "formulation": "Injection",
+    "strength": "1000 units/ ml"
+  },
+  {
+    "name": "Heparin",
+    "formulation": "Injection",
+    "strength": "25 000 units/ ml"
+  },
+  {
+    "name": "Heparin",
+    "formulation": "Injection",
+    "strength": "5000 units/ ml"
+  },
+  {
+    "name": "Phytomenadione",
+    "formulation": "Injection",
+    "strength": "1 mg/ml"
+  },
+  {
+    "name": "Phytomenadione",
+    "formulation": "Injection",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Phytomenadione",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Tranexamic Acid",
+    "formulation": "Capsule",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Tranexamic Acid",
+    "formulation": "Injection",
+    "strength": "50\nmicrogram/ ml"
+  },
+  {
+    "name": "Tranexamic Acid",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Warfarin",
+    "formulation": "Tablet",
+    "strength": "1 mg"
+  },
+  {
+    "name": "Warfarin",
+    "formulation": "Tablet",
+    "strength": "3 mg"
+  },
+  {
+    "name": "Warfarin",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Aluminium Hydroxide",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Antacid containing (Aluminium Hydroxide, Magnesium Hydroxide, Simethicone, Calcium alginates)",
+    "formulation": "Mixture",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Esomeprazole",
+    "formulation": "Capsule",
+    "strength": "20 mg"
+  },
+  {
+    "name": "Esomeprazole",
+    "formulation": "Capsule",
+    "strength": "40 mg"
+  },
+  {
+    "name": "Esomeprazole",
+    "formulation": "Injection",
+    "strength": "40 mg"
+  },
+  {
+    "name": "Magnesium Trisilicate",
+    "formulation": "Mixture",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Magnesium Trisilicate",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Omeprazole",
+    "formulation": "Tablet",
+    "strength": "20 mg"
+  },
+  {
+    "name": "Pantoprazole",
+    "formulation": "Tablet",
+    "strength": "40 mg"
+  },
+  {
+    "name": "Rabeprazole",
+    "formulation": "Capsule",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Rabeprazole",
+    "formulation": "Capsule",
+    "strength": "20 mg"
+  },
+  {
+    "name": "Cinnarizine",
+    "formulation": "Injection",
+    "strength": "15 mg"
+  },
+  {
+    "name": "Cyclizine",
+    "formulation": "Injection",
+    "strength": "50 mg/ml"
+  },
+  {
+    "name": "Cyclizine",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Dexamethasone",
+    "formulation": "Tablet",
+    "strength": "1 mg"
+  },
+  {
+    "name": "Dexamethasone",
+    "formulation": "Tablet",
+    "strength": "500\nmicrogram"
+  },
+  {
+    "name": "Domperidone",
+    "formulation": "Oral Solution",
+    "strength": "1 mg/ml"
+  },
+  {
+    "name": "Domperidone",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Granisetron",
+    "formulation": "Injection",
+    "strength": "1 mg/ml"
+  },
+  {
+    "name": "Granisetron",
+    "formulation": "Tablet",
+    "strength": "1 mg"
+  },
+  {
+    "name": "Lorazepam",
+    "formulation": "Injection",
+    "strength": "4 mg/ml"
+  },
+  {
+    "name": "Lorazepam",
+    "formulation": "Tablet",
+    "strength": "1 mg"
+  },
+  {
+    "name": "Lorazepam",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Lorazepam",
+    "formulation": "Tablet",
+    "strength": "500\nmicrogram"
+  },
+  {
+    "name": "Metoclopramide",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Metoclopramide",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Ondansetron",
+    "formulation": "Tablet",
+    "strength": "4 mg"
+  },
+  {
+    "name": "Ondansetron",
+    "formulation": "Tablet",
+    "strength": "8 mg"
+  },
+  {
+    "name": "Promethazine Hydrochloride",
+    "formulation": "Elixir",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Promethazine Hydrochloride",
+    "formulation": "Injection",
+    "strength": "25 mg/ml"
+  },
+  {
+    "name": "Promethazine Teoclate",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Soothing Agent + Local Anaesthetic",
+    "formulation": "Ointment",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Soothing Agent + Local Anaesthetic",
+    "formulation": "Suppository",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Soothing Agent + Local Anaesthetic + Steroid",
+    "formulation": "Ointment",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Soothing Agent + Local Anaesthetic + Steroid",
+    "formulation": "Suppository",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Hyoscine-N-Butyl Bromide",
+    "formulation": "Injection",
+    "strength": "20 mg/ml"
+  },
+  {
+    "name": "Hyoscine-N-Butyl Bromide",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Mebeverine",
+    "formulation": "Tablet",
+    "strength": "135 mg"
+  },
+  {
+    "name": "Bisacodyl",
+    "formulation": "Suppository",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Bisacodyl",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Glycerol",
+    "formulation": "Suppository",
+    "strength": "1 g"
+  },
+  {
+    "name": "Glycerol",
+    "formulation": "Suppository",
+    "strength": "2 g"
+  },
+  {
+    "name": "Glycerol",
+    "formulation": "Suppository",
+    "strength": "4 g"
+  },
+  {
+    "name": "Lactulose",
+    "formulation": "Liquid",
+    "strength": "3.1 - 3.7 g/ml"
+  },
+  {
+    "name": "Magnesium Sulphate",
+    "formulation": "Salt",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Milk of Magnesia",
+    "formulation": "(blank)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Paraffin",
+    "formulation": "Liquid",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Senna",
+    "formulation": "Granules",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Senna",
+    "formulation": "Syrup",
+    "strength": "7.5 mg/5 ml"
+  },
+  {
+    "name": "Senna",
+    "formulation": "Tablet",
+    "strength": "7.5 mg"
+  },
+  {
+    "name": "Oral Rehydration Salts",
+    "formulation": "Sachet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Zinc",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Zinc",
+    "formulation": "Tablet",
+    "strength": "20 mg"
+  },
+  {
+    "name": "Rifaximin",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Rifaximin",
+    "formulation": "Tablet",
+    "strength": "550 mg"
+  },
+  {
+    "name": "Dexamethasone",
+    "formulation": "Injection",
+    "strength": "4 mg/ml"
+  },
+  {
+    "name": "Hydrocortisone",
+    "formulation": "Injection",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Prednisolone",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Condoms (Female)",
+    "formulation": "(blank)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Condoms (Male)",
+    "formulation": "(blank)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Ethinylestradiol + Levonorgestrel",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Ethinylestradiol + Levonorgestrel",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Ethinylestradiol +\nNorethisterone",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Medroxyprogesterone\nAcetate",
+    "formulation": "Injection",
+    "strength": "150 mg"
+  },
+  {
+    "name": "Norethisterone",
+    "formulation": "(blank)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Conjugated Oestrogen",
+    "formulation": "Tablet",
+    "strength": "625\nmicrogram"
+  },
+  {
+    "name": "Conjugated Oestrogen",
+    "formulation": "Vaginal Cream",
+    "strength": "625\nmicrogram"
+  },
+  {
+    "name": "Conjugated Oestrogen + Norgesterol",
+    "formulation": "Tablet",
+    "strength": "626\nmicrogram\n+ 150\nmicrogram"
+  },
+  {
+    "name": "Glbenclamide",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Gliclazide",
+    "formulation": "Tablet",
+    "strength": "80 mg"
+  },
+  {
+    "name": "Glimerpiride",
+    "formulation": "Tablet",
+    "strength": "1 mg"
+  },
+  {
+    "name": "Glimerpiride",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Glimerpiride",
+    "formulation": "Tablet",
+    "strength": "4 mg"
+  },
+  {
+    "name": "Glucagon",
+    "formulation": "Injection",
+    "strength": "1 mg"
+  },
+  {
+    "name": "Insulin Determir (Long acting)",
+    "formulation": "Injection",
+    "strength": "100 units/ml"
+  },
+  {
+    "name": "Insulin Glargine (Long acting)",
+    "formulation": "Injection",
+    "strength": "100 units/ml"
+  },
+  {
+    "name": "Insulin Lispro (Fast acting)",
+    "formulation": "Injection",
+    "strength": "100 units/ml"
+  },
+  {
+    "name": "Insulin Pre-mixed (30/70)\nHM",
+    "formulation": "Injection",
+    "strength": "100 units/ml"
+  },
+  {
+    "name": "Insulin Soluble HM (Fast acting)",
+    "formulation": "Injection",
+    "strength": "100 units/ml"
+  },
+  {
+    "name": "Metformin",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "NPH Insulin (Intermediate acting)",
+    "formulation": "Injection",
+    "strength": "100 units/ml"
+  },
+  {
+    "name": "Pioglitazone",
+    "formulation": "Tablet",
+    "strength": "15 mg"
+  },
+  {
+    "name": "Pioglitazone",
+    "formulation": "Tablet",
+    "strength": "30 mg"
+  },
+  {
+    "name": "Saxagliptin",
+    "formulation": "Tablet",
+    "strength": "2.5 mg"
+  },
+  {
+    "name": "Sitagliptin",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Sitagliptin",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Tolbutamide",
+    "formulation": "Tablet",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Vildagliptin",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Bromocriptine",
+    "formulation": "Tablet",
+    "strength": "1.25 mg"
+  },
+  {
+    "name": "Bromocriptine",
+    "formulation": "Tablet",
+    "strength": "2.5 mg"
+  },
+  {
+    "name": "Clomifene Citrate",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Medroxyprogesterone\nAcetate",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Norethisterone",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Carbimazole",
+    "formulation": "Tablet",
+    "strength": "20 mg"
+  },
+  {
+    "name": "Carbimazole",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Levothyroxine",
+    "formulation": "Tablet",
+    "strength": "100\nmicrogram"
+  },
+  {
+    "name": "Levothyroxine",
+    "formulation": "Tablet",
+    "strength": "50\nmicrogram"
+  },
+  {
+    "name": "Propylthiouracil",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Anti D Rh Immunoglobulin",
+    "formulation": "Injection",
+    "strength": "250 units/ml"
+  },
+  {
+    "name": "Anti D Rh Immunoglobulin",
+    "formulation": "Injection",
+    "strength": "750 units/ml"
+  },
+  {
+    "name": "Anti-Snake Serum (West African Polyvalent)",
+    "formulation": "Injection",
+    "strength": "1500 IU/ml"
+  },
+  {
+    "name": "Antirabies Immunoglobulin",
+    "formulation": "Injection",
+    "strength": "1000 IU/5 ml"
+  },
+  {
+    "name": "Diphtheria Antitoxin",
+    "formulation": "Infusion",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Tetanus Immunoglobulin",
+    "formulation": "Injection",
+    "strength": "250 IU/ml"
+  },
+  {
+    "name": "Tetanus Immunoglobulin",
+    "formulation": "Injection",
+    "strength": "5000 IU/amp"
+  },
+  {
+    "name": "Tetanus Toxoid",
+    "formulation": "Injection",
+    "strength": "40 IU (0.5 ml)"
+  },
+  {
+    "name": "Meningococcal Vaccine",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Pneumococcal Conjugate Vaccine 13 (PCV13)",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Rabies Vaccine",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Tetanus Toxoid",
+    "formulation": "Injection",
+    "strength": "40 IU (0.5 ml)"
+  },
+  {
+    "name": "Tetanus Vaccine",
+    "formulation": "Injection",
+    "strength": "40 IU/5 ml"
+  },
+  {
+    "name": "Yellow Fever Vaccine",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Bacillus Calmette-Guerin (BCG) Vaccine",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Five in One Vaccine (Diphtheria, Pertussis, Tetanus, Heamophilus influenzae b and Hepatitis B)",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Hepatitis B Vaccine",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Measles Vaccine",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Poliomyelitis Vaccine",
+    "formulation": "Oral Solution",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Tetanus Vaccine",
+    "formulation": "Injection",
+    "strength": "40 IU/5 ml"
+  },
+  {
+    "name": "Yellow Fever Vaccine",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Pegylated inteferon alfa-2a",
+    "formulation": "Injection",
+    "strength": "180\nmicrogram/ ml"
+  },
+  {
+    "name": "Pegylated inteferon alfa-2b",
+    "formulation": "Powder and solvent for injection",
+    "strength": "50\nmicrogram"
+  },
+  {
+    "name": "Pegylated inteferon alfa-2b",
+    "formulation": "Powder and solvent for injection",
+    "strength": "80\nmicrogram"
+  },
+  {
+    "name": "Cyclobenzaprine",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Tizanidine",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Sodium Cromoglycate",
+    "formulation": "Eye Drops",
+    "strength": 0.02
+  },
+  {
+    "name": "Chloramphenicol",
+    "formulation": "Ear, Eye Drops",
+    "strength": "0.5%"
+  },
+  {
+    "name": "Chloramphenicol",
+    "formulation": "Eye Ointment",
+    "strength": "1%"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "formulation": "Eye Drops",
+    "strength": "0.3%"
+  },
+  {
+    "name": "Tetracycline",
+    "formulation": "Eye Ointment",
+    "strength": "1%"
+  },
+  {
+    "name": "Corticosteroid + Antibiotic",
+    "formulation": "Eye Drops",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Corticosteroid + Antibiotic",
+    "formulation": "Eye Ointment",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Acetazolamide",
+    "formulation": "Injection",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Acetazolamide",
+    "formulation": "Tablet",
+    "strength": "250 mg"
+  },
+  {
+    "name": "Betaxolol",
+    "formulation": "Eye Drops",
+    "strength": "0.5%"
+  },
+  {
+    "name": "Bimatoprost",
+    "formulation": "Eye Drops",
+    "strength": "300\nmicrogram/ ml"
+  },
+  {
+    "name": "Latanoprost",
+    "formulation": "Eye Drops",
+    "strength": "50\nmicrogram/ ml"
+  },
+  {
+    "name": "Levobunolol",
+    "formulation": "Eye Drops",
+    "strength": "0.5%"
+  },
+  {
+    "name": "Pilocarpine",
+    "formulation": "Eye Drops",
+    "strength": 0.02
+  },
+  {
+    "name": "Pilocarpine",
+    "formulation": "Eye Drops",
+    "strength": 0.04
+  },
+  {
+    "name": "Pilocarpine",
+    "formulation": "Eye Drops",
+    "strength": "1%"
+  },
+  {
+    "name": "Timolol Maleate",
+    "formulation": "Eye Drops",
+    "strength": "0.5%"
+  },
+  {
+    "name": "Travoprost",
+    "formulation": "Eye Drops",
+    "strength": "40\nmicrogram/ ml"
+  },
+  {
+    "name": "Phenylephrine",
+    "formulation": "Eye Drops",
+    "strength": "10%"
+  },
+  {
+    "name": "Phenylephrine",
+    "formulation": "Eye Drops",
+    "strength": "2.5%"
+  },
+  {
+    "name": "Fluorescein",
+    "formulation": "Eye Drops",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Brimornidine",
+    "formulation": "(blank)",
+    "strength": "1 mg/ml"
+  },
+  {
+    "name": "Brimornidine",
+    "formulation": "(blank)",
+    "strength": "1.5 mg/ml"
+  },
+  {
+    "name": "Brinzolamide",
+    "formulation": "Eye Drops",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Dorzolamide",
+    "formulation": "Eye Drops",
+    "strength": "20 mg/ml"
+  },
+  {
+    "name": "Hydroxymethyl Cellulose",
+    "formulation": "Eye Drops",
+    "strength": "0.3%"
+  },
+  {
+    "name": "Polyvinyl Alcohol",
+    "formulation": "Eye Drops",
+    "strength": 0.014
+  },
+  {
+    "name": "Polyvinyl Alcohol",
+    "formulation": "Eye Drops",
+    "strength": 0.02
+  },
+  {
+    "name": "Sodium Chloride",
+    "formulation": "Solution",
+    "strength": 0.009
+  },
+  {
+    "name": "Proparacaine Hydrochloride",
+    "formulation": "Eye Drops",
+    "strength": "0.5%"
+  },
+  {
+    "name": "Tetracaine Hydrochloride",
+    "formulation": "Eye Drops",
+    "strength": "0.5%"
+  },
+  {
+    "name": "Chlorhexidine",
+    "formulation": "Mouthwash",
+    "strength": "0.12%"
+  },
+  {
+    "name": "Lidocaine",
+    "formulation": "Gel",
+    "strength": 0.02
+  },
+  {
+    "name": "Lidocaine + Adrenaline",
+    "formulation": "Cartridge",
+    "strength": "20 mg/\nml + [1:80 000/1:100\n000]"
+  },
+  {
+    "name": "Miconazole",
+    "formulation": "Oral Gel",
+    "strength": "24 mg/ml"
+  },
+  {
+    "name": "Nystatin",
+    "formulation": "Oral\nSuspension",
+    "strength": "100 000 IU"
+  },
+  {
+    "name": "Povidone Iodine",
+    "formulation": "Mouthwash",
+    "strength": "1%"
+  },
+  {
+    "name": "Adrenaline (Epinephrine)",
+    "formulation": "As nose pack",
+    "strength": "1 mg /ml\n(1:1000)"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "formulation": "Ear Drops",
+    "strength": "0.3%"
+  },
+  {
+    "name": "Ephedrine Hydrochloride",
+    "formulation": "Nasal Drops",
+    "strength": "0.5%"
+  },
+  {
+    "name": "Ephedrine Hydrochloride",
+    "formulation": "Nasal Drops",
+    "strength": "1%"
+  },
+  {
+    "name": "Gentamicin",
+    "formulation": "Ear Drops",
+    "strength": "0.3%"
+  },
+  {
+    "name": "Neomycin + Hydrocortisone",
+    "formulation": "Nasal Drops",
+    "strength": "0.5% + 1.5%"
+  },
+  {
+    "name": "Oxymetazoline",
+    "formulation": "Nasal Spray",
+    "strength": "0.3%"
+  },
+  {
+    "name": "Sodium Chloride",
+    "formulation": "Nasal Drops",
+    "strength": 0.009
+  },
+  {
+    "name": "Xylometazoline",
+    "formulation": "Nasal Spray",
+    "strength": 0.001
+  },
+  {
+    "name": "Xylometazoline",
+    "formulation": "Nasal Spray",
+    "strength": "0.05%"
+  },
+  {
+    "name": "Abacavir + Lamivudine",
+    "formulation": "Tablet",
+    "strength": "60 mg + 30\nmg"
+  },
+  {
+    "name": "Abacavir + Lamivudine",
+    "formulation": "Tablet",
+    "strength": "600 mg + 300\nmg"
+  },
+  {
+    "name": "Atazanavir + Ritonavir",
+    "formulation": "Tablet",
+    "strength": "300 mg + 100\nmg"
+  },
+  {
+    "name": "Efavirenz",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Efavirenz",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Efavirenz",
+    "formulation": "Tablet",
+    "strength": "600 mg"
+  },
+  {
+    "name": "Emtricitabine + Tenofovir",
+    "formulation": "Tablet",
+    "strength": "200 mg + 300\nmg"
+  },
+  {
+    "name": "Emtricitabine + Tenofovir\n+ Efavirenz",
+    "formulation": "Tablet",
+    "strength": "200 mg + 300\nmg + 600 mg"
+  },
+  {
+    "name": "Lamivudine",
+    "formulation": "Tablet",
+    "strength": "150 mg"
+  },
+  {
+    "name": "Lamivudine + Tenofovir",
+    "formulation": "Tablet",
+    "strength": "150 mg + 300\nmg"
+  },
+  {
+    "name": "Lamivudine + Zidovudine\n+ Nevirapine",
+    "formulation": "Tablet",
+    "strength": "150 mg + 300\nmg + 200 mg"
+  },
+  {
+    "name": "Lopinavir + Ritonavir",
+    "formulation": "Tablet",
+    "strength": "100 mg +\n25 mg"
+  },
+  {
+    "name": "Lopinavir + Ritonavir",
+    "formulation": "Tablet",
+    "strength": "200 mg +\n50 mg"
+  },
+  {
+    "name": "Nevirapine",
+    "formulation": "Dispersible Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Nevirapine",
+    "formulation": "Suspension",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Nevirapine",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Tenofovir + Lamivudine + Efavirenz",
+    "formulation": "Tablet",
+    "strength": "300 mg + 300\nmg + 600 mg"
+  },
+  {
+    "name": "Tenofovir Disoproxil Fumarate",
+    "formulation": "Tablet",
+    "strength": "300 mg"
+  },
+  {
+    "name": "Zidovudine",
+    "formulation": "Syrup",
+    "strength": "10 mg/ml"
+  },
+  {
+    "name": "Zidovudine",
+    "formulation": "Tablet",
+    "strength": "300 mg"
+  },
+  {
+    "name": "Zidovudine + Lamivudine",
+    "formulation": "Tablet",
+    "strength": "300 mg + 150\nmg"
+  },
+  {
+    "name": "Zidovudine + Lamivudine",
+    "formulation": "Tablet",
+    "strength": "60 mg + 30\nmg"
+  },
+  {
+    "name": "Zidovudine + Lamivudine\n+ Efavirenz",
+    "formulation": "Tablet",
+    "strength": "300 mg + 150\nmg + 600 mg"
+  },
+  {
+    "name": "Alfuzocin",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Finasteride",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Prostagladin E1",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Sildenafil Citrate",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Tadalafil",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Tamsulosin",
+    "formulation": "Capsule",
+    "strength": "400\nmicrogram"
+  },
+  {
+    "name": "Terazosin",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Terazosin",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Verdanafil",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Alendronate",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Calcitonin",
+    "formulation": "(blank)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Denosumab",
+    "formulation": "Injection",
+    "strength": "60 mg/ml"
+  },
+  {
+    "name": "Denosumab",
+    "formulation": "Injection",
+    "strength": "70 mg/ml"
+  },
+  {
+    "name": "Intravenous Immunoglob- ulin (IVIg)",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Pamidronate",
+    "formulation": "Injection",
+    "strength": "15 mg/ml"
+  },
+  {
+    "name": "Pamidronate",
+    "formulation": "Injection",
+    "strength": "6 mg/ml"
+  },
+  {
+    "name": "Phosphocitrate",
+    "formulation": "(blank)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Probenecid",
+    "formulation": "(blank)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Strontium Ranelate",
+    "formulation": "Granule Sachets",
+    "strength": "2 g"
+  },
+  {
+    "name": "Teriparatide",
+    "formulation": "(blank)",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Triamcinolone",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Entecavir",
+    "formulation": "Tablet",
+    "strength": "50\nmicrogram/ ml"
+  },
+  {
+    "name": "Entecavir",
+    "formulation": "Tablet",
+    "strength": "500\nmicrogram"
+  },
+  {
+    "name": "Ribavirin",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Ribavirin",
+    "formulation": "Tablet",
+    "strength": "400 mg"
+  },
+  {
+    "name": "Salbutamol",
+    "formulation": "Tablet",
+    "strength": "4 mg"
+  },
+  {
+    "name": "Salbutamol",
+    "formulation": "Injection",
+    "strength": "500\nmicrogram/ ml"
+  },
+  {
+    "name": "Ergometrine",
+    "formulation": "Injection",
+    "strength": "200\nmicrogram/ ml"
+  },
+  {
+    "name": "Ergometrine",
+    "formulation": "Injection",
+    "strength": "500\nmicrogram/ ml"
+  },
+  {
+    "name": "Ergometrine",
+    "formulation": "Tablet",
+    "strength": "200\nmicrogram"
+  },
+  {
+    "name": "Ergometrine",
+    "formulation": "Tablet",
+    "strength": "500\nmicrogram"
+  },
+  {
+    "name": "Mifepristone",
+    "formulation": "Tablet",
+    "strength": "600\nmicrogram"
+  },
+  {
+    "name": "Misoprostol",
+    "formulation": "Tablet",
+    "strength": "100\nmicrogram"
+  },
+  {
+    "name": "Misoprostol",
+    "formulation": "Tablet",
+    "strength": "200\nmicrogram"
+  },
+  {
+    "name": "Misoprostol",
+    "formulation": "Tablet",
+    "strength": "25\nmicrogram"
+  },
+  {
+    "name": "Misoprostol",
+    "formulation": "Tablet",
+    "strength": "50\nmicrogram"
+  },
+  {
+    "name": "Misoprostol",
+    "formulation": "Vaginal Tablet",
+    "strength": "200\nmicrogram"
+  },
+  {
+    "name": "Oxytocin",
+    "formulation": "Injection",
+    "strength": "10 units/ml"
+  },
+  {
+    "name": "Oxytocin",
+    "formulation": "Injection",
+    "strength": "5 units/ml"
+  },
+  {
+    "name": "Atropine",
+    "formulation": "Injection",
+    "strength": "0.6 mg/ml"
+  },
+  {
+    "name": "Diazepam",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Lorazepam",
+    "formulation": "Injection",
+    "strength": "4 mg/ml"
+  },
+  {
+    "name": "Lorazepam",
+    "formulation": "Tablet",
+    "strength": "1 mg"
+  },
+  {
+    "name": "Lorazepam",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Midazolam",
+    "formulation": "Injection",
+    "strength": "1 mg/ml"
+  },
+  {
+    "name": "Midazolam",
+    "formulation": "Tablet",
+    "strength": "15 mg"
+  },
+  {
+    "name": "Alprazolam",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Amitriptyline",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Amitriptyline",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Amitriptyline",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Atomoxetine",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Benzatropine",
+    "formulation": "Injection",
+    "strength": "1 mg/ml"
+  },
+  {
+    "name": "Benzatropine",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Biperiden",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Biperiden",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Chloral Hydrate",
+    "formulation": "Oral Solution",
+    "strength": "28.66 mg/ml"
+  },
+  {
+    "name": "Chloral Hydrate",
+    "formulation": "Tablet",
+    "strength": "707 mg"
+  },
+  {
+    "name": "Chlordiazepoxide Hydrochloride",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Chlorpromazine",
+    "formulation": "Injection",
+    "strength": "25 mg/ml"
+  },
+  {
+    "name": "Chlorpromazine",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Chlorpromazine",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Chlorpromazine",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Citalopram",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Citalopram",
+    "formulation": "Tablet",
+    "strength": "20 mg"
+  },
+  {
+    "name": "Citalopram",
+    "formulation": "Tablet",
+    "strength": "40 mg"
+  },
+  {
+    "name": "Diazepam",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Diazepam",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Diazepam",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Duloxetine Hydrochloride",
+    "formulation": "Tablet",
+    "strength": "20 mg"
+  },
+  {
+    "name": "Duloxetine Hydrochloride",
+    "formulation": "Tablet",
+    "strength": "30 mg"
+  },
+  {
+    "name": "Fluoxetine",
+    "formulation": "Capsule",
+    "strength": "20 mg"
+  },
+  {
+    "name": "Flupenthixol Decanoate",
+    "formulation": "Injection",
+    "strength": "20 mg/ml"
+  },
+  {
+    "name": "Fluphenazine Decanoate",
+    "formulation": "Injection",
+    "strength": "25 mg/ml"
+  },
+  {
+    "name": "Haloperidol",
+    "formulation": "Injection",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Haloperidol",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Haloperidol",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Imipramine",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Lamotrigine",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Lamotrigine",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Lamotrigine",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Lithium Carbonate",
+    "formulation": "Tablet (slow release)",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Lithium Carbonate",
+    "formulation": "Tablet (slow release)",
+    "strength": "500 mg"
+  },
+  {
+    "name": "Lorazepam",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Melatonin",
+    "formulation": "Tablet (Modified release)",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Methylphenidate Hydrochloride",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Olanzapine",
+    "formulation": "Injection",
+    "strength": "5 mg/ml"
+  },
+  {
+    "name": "Olanzapine",
+    "formulation": "Tablet",
+    "strength": "10 mg"
+  },
+  {
+    "name": "Olanzapine",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Risperidone",
+    "formulation": "Tablet",
+    "strength": "1 mg"
+  },
+  {
+    "name": "Risperidone",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Risperidone",
+    "formulation": "Tablet",
+    "strength": "500\nmicrogram"
+  },
+  {
+    "name": "Sertraline",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Sertraline",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Sodium Valproate",
+    "formulation": "Tablet",
+    "strength": "200 mg"
+  },
+  {
+    "name": "Triazolam",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Trihexyphenidyl",
+    "formulation": "Oral Solution",
+    "strength": "1 mg/ml"
+  },
+  {
+    "name": "Trihexyphenidyl",
+    "formulation": "Tablet",
+    "strength": "2 mg"
+  },
+  {
+    "name": "Trihexyphenidyl",
+    "formulation": "Tablet",
+    "strength": "5 mg"
+  },
+  {
+    "name": "Mist. Potassium Citrate",
+    "formulation": "Solution",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Oral Rehydration Salts",
+    "formulation": "Sachet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Potassium Chloride",
+    "formulation": "Tablet (Enteric Coated)",
+    "strength": "600 mg"
+  },
+  {
+    "name": "Badoe's Solution",
+    "formulation": "Injection",
+    "strength": "1000 ml"
+  },
+  {
+    "name": "Calcium Gluconate",
+    "formulation": "Injection",
+    "strength": "10% (100\nmg/ml)"
+  },
+  {
+    "name": "Cholera Replacement Fluid",
+    "formulation": "Injection",
+    "strength": "(5:4:1)"
+  },
+  {
+    "name": "Darrow's Solution",
+    "formulation": "Half-strenght",
+    "strength": "250 ml"
+  },
+  {
+    "name": "Dextrose",
+    "formulation": "Infusion",
+    "strength": "10% (250 ml)"
+  },
+  {
+    "name": "Dextrose",
+    "formulation": "Infusion",
+    "strength": "10% (500 ml)"
+  },
+  {
+    "name": "Dextrose",
+    "formulation": "Infusion",
+    "strength": "20% (250 ml)"
+  },
+  {
+    "name": "Dextrose",
+    "formulation": "Infusion",
+    "strength": "5% (250 ml)"
+  },
+  {
+    "name": "Dextrose",
+    "formulation": "Infusion",
+    "strength": "5% (500 ml)"
+  },
+  {
+    "name": "Dextrose",
+    "formulation": "Infusion",
+    "strength": "50% (50 ml)"
+  },
+  {
+    "name": "Dextrose in Sodium Chloride",
+    "formulation": "Infusion",
+    "strength": "10% in 0.18%\n(250 ml)"
+  },
+  {
+    "name": "Dextrose in Sodium Chloride",
+    "formulation": "Infusion",
+    "strength": "4.3% in\n0.18% (250\nml)"
+  },
+  {
+    "name": "Dextrose in Sodium Chloride",
+    "formulation": "Infusion",
+    "strength": "5% in 0.9%\n(500 ml)"
+  },
+  {
+    "name": "Potassium Chloride",
+    "formulation": "Injection",
+    "strength": "20 mEq/10 ml"
+  },
+  {
+    "name": "Ringers Lactate",
+    "formulation": "Infusion",
+    "strength": "500 ml"
+  },
+  {
+    "name": "Sodium Bicarbonate",
+    "formulation": "Injection",
+    "strength": 0.084
+  },
+  {
+    "name": "Sodium Chloride",
+    "formulation": "Injection",
+    "strength": "0.45% (250\nml)"
+  },
+  {
+    "name": "Sodium Chloride",
+    "formulation": "Injection",
+    "strength": "0.9% (250\nml)"
+  },
+  {
+    "name": "Sodium Chloride",
+    "formulation": "Injection",
+    "strength": "0.9% (500\nml)"
+  },
+  {
+    "name": "Sodium Chloride + Potassium Chloride",
+    "formulation": "Injection",
+    "strength": "0.9% + 20\nmMol (500 ml)"
+  },
+  {
+    "name": "Water for Injection",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Calciferol",
+    "formulation": "Injection",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Calciferol",
+    "formulation": "Tablet",
+    "strength": "10 000 units"
+  },
+  {
+    "name": "Calcium",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Calcium + Vitamin D",
+    "formulation": "Tablet",
+    "strength": "97 mg + 10\nmicrogram"
+  },
+  {
+    "name": "Calcium Gluconate",
+    "formulation": "Injection",
+    "strength": "100 mg/ml"
+  },
+  {
+    "name": "Multivitamin",
+    "formulation": "Syrup",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Multivitamin",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  },
+  {
+    "name": "Pyridoxine",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Pyridoxine",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Retinol",
+    "formulation": "Capsule",
+    "strength": "100 000 IU"
+  },
+  {
+    "name": "Retinol",
+    "formulation": "Capsule",
+    "strength": "200 000 IU"
+  },
+  {
+    "name": "Thiamine",
+    "formulation": "Injection",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Thiamine",
+    "formulation": "Tablet",
+    "strength": "100 mg"
+  },
+  {
+    "name": "Thiamine",
+    "formulation": "Tablet",
+    "strength": "25 mg"
+  },
+  {
+    "name": "Thiamine",
+    "formulation": "Tablet",
+    "strength": "50 mg"
+  },
+  {
+    "name": "Vitamin B-Compound",
+    "formulation": "Injection",
+    "strength": "(High potency)"
+  },
+  {
+    "name": "Vitamin C",
+    "formulation": "Tablet",
+    "strength": "(blank)"
+  }
+]
